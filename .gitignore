@@ -1,0 +1,7 @@
+# folders
+node_modules/
+test-reports/
+
+# files
+errorLog*.txt
+access*.log

@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  },
+  "files.associations": {
+    "tslint.json": "jsonc"
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "typescript.tsdk": "d:\\GK Technology\\All Projects\\GIT repositories\\restaurant-management-system\\node_modules\\typescript\\lib"
+}
